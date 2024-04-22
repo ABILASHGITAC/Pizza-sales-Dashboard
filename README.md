@@ -11,3 +11,4 @@
 💪👥Big thanks to everyone who contributed ideas and feedback along the way! 
 
 🙌 Let's continue to innovate and elevate our sales strategies together! 💼🚀 #Excel #DataAnalysis #GitHub #SalesDashboard #DataDrivenDecisions #TeamCollaboration
+![Screenshot 2024-04-20 154112](https://github.com/ABILASHGITAC/Pizza-sales-Dashboard/assets/165636973/cfab2ee5-7fd4-4ecf-8858-dc2ffa7f4d38)
